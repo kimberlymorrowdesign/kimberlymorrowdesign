@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kim (@kimberlymorrowdesign)
-- 👀 I’m interested in design, art, technology, Visual Thinking Strategies (VTS), teaching, mentoring, F45
+- 👀 I’m interested in UX + AI, Design, Art, Visual Thinking Strategies (VTS), Teaching, F45
 - 🌱 I’m currently learning as much as I can about how different AI tech works, how to design for AI, and how to augment my design abilities with AI
 - 💞️ I’m looking to collaborate on anything really, hit me up
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/kimberlymorrowdesign/), My Site (https://www.kimberlymorrow.com/), Instagram (https://www.instagram.com/kimberlymorrowdesign/)
