@@ -1,12 +1,12 @@
 # Hi, I'm Kim 👋
 
-I'm Head of UX at Alegeus, where I lead an AI-native team designing B2B2C healthcare and fintech products used by millions, and am building the systems that let people and AI build together.
+I'm Head of UX at Alegeus, where I lead an AI-native team designing B2B2C healthcare and fintech products used by millions, and build the systems that let people and AI build together, with as little angst as possible.
 
-I learned to build in my family's sewing shop, fixing machines with my grandfather and sewing with my grandmother. Since then, I've done biochemistry research for a NASA Mars project, designed websites and edited nuclear energy proposals at Sandia National Laboratories, spent nearly 13 years in UX leadership at Fidelity, and now design experience systems for people and AI agents. 
+I learned to build in my family's sewing shop, fixing machines with my grandfather and sewing with my grandmother. Since then, I've done biochemistry research for a NASA Mars project, designed websites and edited nuclear energy proposals at Sandia National Laboratories, spent nearly 13 years in UX leadership at Fidelity, and now I'm building AI-native experience systems for people and agents.
 
-Different worlds, same design instincts: figure out how things work, then make them work better... for people (always).
+Different worlds, same design instincts: figure out how things work, then make them work better... for people.
 
-Right now, that means I'm in the messy middle of AI-native product development, spec-driven development, DesignOps, and design systems engineering, building the invisible systems that let designers and product teams spend less time fighting process, tools, (and each other), and more time building.
+Right now, that means I'm in the messy middle of AI-native product development, spec-driven development, DesignOps, and design systems engineering, building the invisible systems that let designers and product teams spend less time fighting process, tools (and each other), and more time building.
 
 ### 💡 Why I do what I do
 
@@ -14,13 +14,11 @@ AI has changed how products are designed and built, but it has made certain kind
 
 AI can produce decent-looking artifacts in seconds. But artifacts (style guides, HTML files, personas, journey maps) have never been where design's real value lies. Great design happens mostly behind the scenes: making sure something works, solves a real need, is easy to use, *and* looks great.
 
-That takes designers who keep learning the new tools of their trade, think critically, solve hard problems, and build and work within strong systems. Designers who understand the why behind what they're building, and who have the grit, the heart, and maybe the slightest bit of crazy to keep trying. They decide what's worth building, direct how it gets built, and define how we'll know it's been built right.
+That takes designers who keep learning the new tools of their trade, think critically, solve hard problems, and build and work within strong systems. Designers who understand the why behind what they're building, and who have the grit, the heart, and maybe a touch of delusional optimism to keep trying. They decide what's worth building, direct how it gets built, and define how we'll know it's been built right.
 
 They're also the changemakers. They help Product break out of requirements and Engineering break out of code to find new ways to solve hard problems.
 
-So yes, I can make you a lovely style guide (mood boards first, if you like), the persona sheets of your dreams, and journey maps you'll want to frame and hang over your couch. But what I'm really here for, and what I put my heart into, is building the systems you may never see but will definitely feel: things get easier, faster, and smoother. 
-
-
+So yes, I can make you a lovely style guide (mood boards first, if you like), the persona sheets of your dreams, and journey maps you'll want to frame and hang over your couch. But what I'm really here for, and what I put my heart into, is building the systems you may never see but will definitely feel: things get easier, faster, and smoother.
 
 ### 🛠️ What I'm building
 
