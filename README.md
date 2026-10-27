@@ -18,7 +18,7 @@ That takes designers who keep learning the new tools of their trade, think criti
 
 They're also the changemakers. They help Product break out of requirements and Engineering break out of code to find new ways to solve hard problems.
 
-So yes, I can make you a lovely style guide (mood boards first, if you like), the persona sheets of your dreams, and journey maps you'll want to frame and hang over your couch. But what I'm really here for, and what I put my heart into, is building the systems you may never see but will definitely feel: things get easier, faster, and smoother.
+So yes, I can make you a lovely style guide (mood boards first, if you like), the persona sheets of your dreams, and journey maps you'll want to frame and hang over your couch. But what I'm really here for, and what I put my heart into, is building the systems you may never see but will definitely feel: where things get easier, faster, and smoother.
 
 ### 🛠️ What I'm building
 
