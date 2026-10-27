@@ -8,7 +8,7 @@ I learned to build in my family's sewing shop, fixing machines with my grandfath
 
 AI is changing how products get made, but designers still need to think clearly, work within strong systems, and know why they're building what they're building. I build systems and tools at the intersection of DesignOps, AI-native product development, and design system engineering, thinking, so designers can spend less time fighting process and more time doing their best work.
 
-**[My New Portfolio Site](REPO-LINK): built in public**
+**My New Portfolio Site**
 A site that's also a working example of how I build: Astro and Vercel, design tokens, accessibility checks on every pull request, and conventions written for AI agents (`AGENTS.md`, `CLAUDE.md`).
 *Status: In progress*
 
