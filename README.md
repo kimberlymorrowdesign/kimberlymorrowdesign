@@ -28,11 +28,13 @@ A site that shows what I build and how: Claude Design, Astro, Vercel, GitHub, DT
 
 *Status: In progress*
 
+
 **AI-Native System in a Box**
 
 An open-source starter kit for teams who want to design and build with AI from day one: design tokens, components with human- and machine-readable specs, a voice and content layer, agent conventions, accessibility and quality checks, and process templates, all scored on how well AI agents follow them.
 
 *Status: In progress*
+
 
 **Ask Kim: Less Scroll, More Substance**
 
@@ -40,9 +42,10 @@ Instead of digging through case studies, you'll be able to just ask. The assista
 
 *Status: Planned*
 
+
 ### 🤖 How I work
 
-Scribbling with pen and paper (still my #1 design tool), talking out loud to ChatGPT, sketching in Claude Design, prototyping in code with Claude Code and Codex, and shipping with Git and Vercel.
+Scribbling with pen and paper (still my #1 design tool), talking out loud to ChatGPT, sketching in Claude Design, prototyping in code with Claude Code and Codex, shipping with Git and Vercel.
 
 ### 🎨 Off the clock
 
