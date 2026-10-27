@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX + AI, Design, Art, Visual Thinking Strategies (VTS), Teaching, F45
 - 🌱 I’m currently learning as much as I can about how different AI tech works, how to design for AI, and how to augment my design abilities with AI
 - 💞️ I’m looking to collaborate on anything really, hit me up
-- 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/kimberlymorrowdesign/), My Site (https://www.kimberlymorrow.com/), Instagram (https://www.instagram.com/kimberlymorrowdesign/)
+- 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/kmorrowdesign/), My Site (https://www.kimberlymorrow.com/), Instagram (https://www.instagram.com/kimberlymorrowdesign/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am slowly writing and illustrating several children's books and graphic novels
 
