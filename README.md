@@ -21,12 +21,12 @@ Instead of making you dig through case studies, you'll be able to just ask. The 
 *Status: Planned*
 
 ### 🤖 How I work
-Sketching in Claude Design, prototyping in code with Claude Code and Codex, shipping with Git and Vercel. Pen and paper are still my favorite design tools.
+Scribbling on pen and paper (still my #1 design tools), talking out loud to ChatGPT, sketching in Claude Design, prototyping in code with Claude Code and Codex, shipping with Git and Vercel.
 
 ### 🎨 Off the clock
 Writing and illustrating children's books and graphic novels, singing, and collecting a ridiculous number of "useless" facts.
 
 ### 📫 Find me
-[LinkedIn](https://www.linkedin.com/in/kmorrowdesign/) · [Portfolio](https://www.kimberlymorrow.com/) · [Instagram](https://www.instagram.com/kimberlymorrowdesign/)
+[LinkedIn](https://www.linkedin.com/in/kmorrowdesign/) · [Old Portfolio](https://www.kimberlymorrow.com/) · [Instagram](https://www.instagram.com/kimberlymorrowdesign/)
 
 *Pronouns: she/her*
