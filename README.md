@@ -1,6 +1,6 @@
 # Hi, I'm Kim 👋
 
-I'm Head of UX at [Alegeus](https://www.alegeus.com/), where I lead an AI-native team designing B2B2C healthcare and fintech products used by millions. I build the systems that let people and AI build together.
+I'm Head of UX at Alegeus, where I lead an AI-native team designing B2B2C healthcare and fintech products used by millions. I build the systems that let people and AI build together.
 
 I learned to build in my family's sewing shop, fixing machines with my grandfather and sewing with my grandmother. Since then: NASA Mars research, Sandia National Laboratories, nearly 13 years in UX leadership at Fidelity, and now experience systems for people and AI agents.
 
