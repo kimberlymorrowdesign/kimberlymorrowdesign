@@ -2,7 +2,7 @@
 
 I'm Head of UX at Alegeus, where I lead an AI-native team designing B2B2C healthcare and fintech products used by millions, and build the systems that let people and AI build together (with as little angst as possible).
 
-I learned to build in my family's sewing shop, fixing machines with my grandfather and sewing with my grandmother. Since then, I've done biochemistry research for a NASA Mars project, designed websites and edited nuclear energy proposals at Sandia National Laboratories, spent nearly 13 years in UX leadership at Fidelity, and now I'm building AI-native experience systems for people and agents.
+I learned to build in my family's sewing shop, fixing machines with my grandfather and sewing with my grandmother. Since then, I've done biochemistry research for a NASA Mars project, designed websites and edited nuclear energy proposals at Sandia National Laboratories, spent nearly 13 years in UX leadership at Fidelity, and now I'm building AI-native experience systems for people and agents at Alegeus.
 
 Different worlds, same design instincts: figure out how things work, then make them work better... for people.
 
