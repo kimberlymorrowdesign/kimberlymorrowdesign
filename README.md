@@ -22,7 +22,7 @@ So yes, I can make you a lovely style guide (mood boards first, if you like), th
 
 ### 🛠️ What I'm building
 
-**New Portfolio Site** · [(see current site](https://www.kimberlymorrow.com/)
+**New Portfolio Site** · [(see current site)](https://www.kimberlymorrow.com/)
 
 A site that shows what I build and how: Claude Design, Astro, Vercel, GitHub, DTCG design tokens, accessibility checks on every pull request, and conventions written for AI agents (`AGENTS.md`, `CLAUDE.md`).
 
