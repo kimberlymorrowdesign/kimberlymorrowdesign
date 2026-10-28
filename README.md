@@ -70,4 +70,7 @@ Writing and illustrating children's books and graphic novels, singing, and colle
 
 [LinkedIn](https://www.linkedin.com/in/kmorrowdesign/) · [Portfolio (rebuild in progress)](https://www.kimberlymorrow.com/) · [Instagram](https://www.instagram.com/kimberlymorrowdesign/)
 
+
+ ·  ·  · 
+
 *Pronouns: she/her*
