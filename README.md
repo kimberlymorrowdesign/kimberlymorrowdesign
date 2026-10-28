@@ -28,11 +28,15 @@ A site that shows what I build and how: Claude Design, Astro, Vercel, GitHub, DT
 
 *Status: In progress*
 
+ · 
+
 **AI-Native System in a Box**
 
 Everyone says to go AI-native... but what does that mean, how do you do it, and where do you start? Right here. An open-source starter kit for teams who want to design and build with AI from day one: design tokens, components with human- and machine-readable specs, a voice and content layer, agent conventions, accessibility and quality checks, process templates, and sage advice from the trenches. The specs are scored on how well AI agents follow them.
 
 *Status: In progress*
+
+ · 
 
 **Ask Kim: Less Scroll, More Substance**
 
