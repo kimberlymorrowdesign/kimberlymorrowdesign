@@ -8,6 +8,8 @@ Different worlds, same design instincts: figure out how things work, then make t
 
 Right now, that means I'm in the messy middle of AI-native product development, spec-driven development, DesignOps, and design systems engineering, building the invisible systems that let designers and product teams spend less time fighting process, tools (and each other), and more time building.
 
+ ·  ·  · 
+
 ### 💡 Why AI-Native Is Great News for Design
 
 AI has changed how products are designed and built, but it has made design more important, not less. The things great designers do, AI can't do. The things great designers would rather skip, AI does really well.
@@ -19,6 +21,9 @@ That takes designers who keep learning the new tools of their trade (they've alw
 They're also the changemakers. They help Product break out of requirements and Engineering break out of code. They push others to question everything and buck the status quo, because that's the only way to find new ways to solve new hard problems.
 
 So yes, I can make you a lovely style guide (mood boards first, if you like), the persona sheets of your dreams, and journey maps you'll want to frame and hang over your couch. But what I'm really here for, what I put my heart into, and what you want me caring about a little more than is healthy, is building the systems you may never see but will definitely feel: where things get better, easier, faster, and smoother.
+
+ ·  ·  · 
+
 
 ### 🛠️ What I'm building
 
@@ -44,13 +49,22 @@ Instead of digging through case studies (unless that's your thing... no judging)
 
 *Status: In progress*
 
+ ·  ·  · 
+
+
 ### 🤖 How I work
 
 Scribbling with pen and paper (still my #1 design tool), talking out loud to ChatGPT, sketching in Claude Design, prototyping in code with Claude Code and Codex, and shipping with Git and Vercel.
 
+ ·  ·  · 
+
+
 ### 🎨 Off the clock
 
 Writing and illustrating children's books and graphic novels, singing, and collecting a ridiculous number of "useless" facts.
+
+ ·  ·  · 
+
 
 ### 📫 Find me
 
