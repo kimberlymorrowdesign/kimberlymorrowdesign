@@ -2,15 +2,18 @@
 
 I'm Head of UX at Alegeus, part of Optum, a UnitedHealth Group (UHG) company, where I lead UX for B2B2C healthcare and fintech products serving more than 26 million members. I'm a problem solver and builder who makes complex financial decisions simple, for the people making them and the teams designing them.
 
+### How we work
+Right Problem → Right Solution → Done Right → Delivered at Scale. I'm building AI-native practices that pair human judgment with AI-assisted discovery, research, and prototyping, so teams tackle value, usability, feasibility, and risk earlier.
+
 ### Systems I've delivered
-- **A shared experience system for people and AI tools, covering content, states, accessibility, patterns, and reference code, so teams reuse decisions instead of remaking them. Another team's production app already draws on it.
-- **Coded prototypes with scenario controls, so Design, Product, Engineering, and AI tools can see and settle complex functionality before anything is built.
+- A shared experience system for people and AI tools, covering content, states, accessibility, patterns, and reference code, so teams reuse decisions instead of remaking them. Another team's production app already draws on it.
+- Coded prototypes with scenario controls, so Design, Product, Engineering, and AI tools can see and settle complex functionality before anything is built.
 
 ### 🧭 Decisions I've clarified
-- **Requirements: prototyped a complex HSA contribution flow with IRS limits, so the PM and Compliance signed off within a day and Engineering had it coded within three.
-- **Risk: built a trade-off board of employer password-reset flows, so our CISO could weigh experience against risk and approve the best-experience flow.
-- **Functionality: gave product owners new to the limited-purpose FSA a prototype with scenario controls, so they could define exact behavior as they explored the APIs and met with Engineering.
-- **AI trust: simplified automated claims to upload first, with plain "automated tools" wording and a manual path that's quieter but never hidden.
+- Requirements: prototyped a complex HSA contribution flow with IRS limits, so the PM and Compliance signed off within a day and Engineering had it coded within three.
+- Risk: built a trade-off board of employer password-reset flows, so our CISO could weigh experience against risk and approve the best-experience flow.
+- Functionality: gave product owners new to the limited-purpose FSA a prototype with scenario controls, so they could define exact behavior as they explored the APIs and met with Engineering.
+- AI trust: simplified automated claims to upload first, with plain "automated tools" wording and a manual path that's quieter but never hidden.
 
 ### 🧵 Where I come from
 
