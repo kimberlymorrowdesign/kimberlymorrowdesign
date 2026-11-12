@@ -4,7 +4,7 @@ I'm Head of UX at Alegeus, part of Optum, a UnitedHealth Group (UHG) company, wh
 
 ### 🧭 Decisions I've clarified
 
-- **Requirements:** prototyped a complex HSA contribution flow, so the PM and Compliance signed off within a day and Engineering had the design within three.
+- **Requirements:** prototyped a complex HSA contribution flow, so the PM and Compliance signed off within a day and Engineering had it coded within three.
 - **Risk:** built a trade-off board of password-reset flows, so our CISO could weigh experience against risk and approve the best-experience flow.
 - **AI trust:** simplified automated claims to upload first, with plain "automated tools" wording and a manual path that's quieter but never hidden.
 
