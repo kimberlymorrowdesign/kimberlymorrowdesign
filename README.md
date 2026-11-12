@@ -2,10 +2,10 @@
 
 I'm Head of UX at Alegeus, part of Optum, a UnitedHealth Group (UHG) company, where I lead UX for B2B2C healthcare and fintech products serving more than 26 million members. I'm a problem solver and builder who makes complex financial decisions simple, for the people making them and the teams designing them.
 
-### How we work
+### 🗺️ Our framework
 Right Problem → Right Solution → Done Right → Delivered at Scale. I'm building AI-native practices that pair human judgment with AI-assisted discovery, research, and prototyping, so teams tackle value, usability, feasibility, and risk earlier.
 
-### Systems I've delivered
+### ⚙️ Systems I've delivered
 - A shared experience system for people and AI tools, covering content, states, accessibility, patterns, and reference code, so teams reuse decisions instead of remaking them. Another team's production app already draws on it.
 - Coded prototypes with scenario controls, so Design, Product, Engineering, and AI tools can see and settle complex functionality before anything is built.
 
