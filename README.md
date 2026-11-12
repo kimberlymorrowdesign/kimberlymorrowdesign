@@ -1,6 +1,6 @@
 # Hi, I'm Kim 👋
 
-I'm Head of UX at Alegeus, a UnitedHealth Group company, where I lead UX for B2B2C healthcare and fintech products serving more than 26 million members. I'm a problem solver and builder who makes complex financial decisions simple, for the people making them and the teams designing them.
+I'm Head of UX at Alegeus, part of Optum, a UnitedHealth Group (UHG) company, where I lead UX for B2B2C healthcare and fintech products serving more than 26 million members. I'm a problem solver and builder who makes complex financial decisions simple, for the people making them and the teams designing them.
 
 ### 🧭 Decisions I've clarified
 
